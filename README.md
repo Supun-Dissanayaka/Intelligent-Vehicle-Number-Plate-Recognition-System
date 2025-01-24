@@ -1,6 +1,7 @@
 # **Vehicle Number Plate Detection System**
 
 **Technologies**: Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS
+
 **Timeline: November 2024**
 
 ## **Here is a demo containing the project output:**
