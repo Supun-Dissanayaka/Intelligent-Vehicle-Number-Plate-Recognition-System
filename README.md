@@ -1,4 +1,4 @@
-**Vehicle Number Plate Detection System**
+# **Vehicle Number Plate Detection System**
 
 ## **Here is a demo containing the project output:**
 ![Smart Surveillance System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR/blob/main/output_.gif?raw=true)
