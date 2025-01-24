@@ -1,9 +1,11 @@
 **Vehicle Number Plate Detection System**
 
+## **Here is a demo containing the project output:**
+![Smart Surveillance System](https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR/blob/main/output_.gif?raw=true)
+
+
 **Technologies**: Python, YOLOv9, EasyOCR, OpenCV, Flask, AWS
 **Timeline: November 2024**
-
-
 
 🚗 Project Overview
 The Vehicle Number Plate Detection System is an innovative solution built to detect and recognize vehicle number plates in real time. By combining state-of-the-art object detection and OCR technologies, it delivers highly accurate and efficient results for a wide range of applications, such as:
@@ -45,30 +47,7 @@ Cloud Hosting: AWS
 ✅ Showcased integration of computer vision and OCR technologies in real-world applications.
 
 🚀 Demo Instructions
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Supun-Dissanayaka/Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR.git
-Navigate to the project directory:
-
-bash
-Copy
-Edit
-cd Vehicle-Number-plate-Detecter-using-YOLOv9-and-Easy-OCR
-Install the required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Flask web application:
-
-bash
-Copy
-Edit
-python app.py
 Access the app in your browser at http://127.0.0.1:5000.
 
 📊 Use Cases
