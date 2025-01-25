@@ -5,7 +5,7 @@
 **Timeline: November 2024**
 
 ## **Here is a demo containing the project output:**
-![Smart Surveillance System](https://github.com/Supun-Dissanayaka/Intelligent Vehicle Number Plate Recognition System/blob/main/output_.gif?raw=true)
+![Smart Surveillance System](https://github.com/Supun-Dissanayaka/Intelligent-Vehicle-Number-Plate-Recognition-System/blob/main/output_.gif?raw=true)
 
 
 🚗 Project Overview
